@@ -2,6 +2,6 @@ function foo() {
   return 'foo'
 }
 
-function baz() {
-  return 'baz'
+function bar() {
+  return 'bar'
 }
