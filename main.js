@@ -3,5 +3,5 @@ function foo() {
 }
 
 function baz() {
-  return baz
+  return 'baz'
 }
